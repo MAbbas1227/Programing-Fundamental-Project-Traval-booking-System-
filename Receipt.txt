@@ -1,0 +1,12 @@
+
+<------------------------------------------------------------------------>
+Name : wasif 
+Address : swat 
+Cnic : 1234567890987 
+Your Destination : Swat 
+Transport   : flight 
+flight    : Flight Economy class 
+Economy class Bill is 110000 :
+Tour Guide : Yes 	 Tour Guide Bill is: 7000
+Your Hotel  : Pear Continental hotel
+hotel bill is 30000
